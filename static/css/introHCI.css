@@ -33,3 +33,13 @@ body {
      z-index: -1;	
 }
 
+p {
+     text-align: center;
+     padding: 20px;
+     border: 1px dotted gray;
+     background-color: lightblue;
+}
+
+h1 {
+     text-align: center;
+}
